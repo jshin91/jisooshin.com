@@ -27,9 +27,9 @@ From the first day, I was invited to all of the weekly meetings and was treated 
 My favorite part about the apprenticeship was our scheduled chats. These ranged from talking to the marketing and community teams about non-technical topics, to learning how specific code worked throughout Stack Overflow’s various code bases. The technical talks included infrastructure and architecture chats as well as general concepts like web security, caching and garbage collection. Some of my favorite non-technical topics were about diversity, impostor syndrome, and an in-depth look at Stack Overflow’s hiring process. 
 
 ### Top three favorite perks
-My favorite perk at StackOverflow was having food cooked for lunch everyday by incredible in-house chefs. During a weekend brunch at Stack Overflow, the chefs had live sea urchin, which I got to crack open myself! I also tried out Thai chili and habanero peppers and dried locusts with coworkers and the chefs — an unforgettable experience.
+My favorite perk at Stack Overflow was having food cooked for lunch everyday by incredible in-house chefs. During a weekend brunch at Stack Overflow, the chefs had live sea urchin, which I got to crack open myself! I also tried out a Thai chili pepper, habanero pepper and dried locust with coworkers and the chefs — an unforgettable experience.
 
-My second favorite perk was having a quiet place to work. Each developer in the NY office has their own private office, with adjustable height desks and multiple monitors. Some employees have treadmills in their office instead of chairs and others have drums and guitars. 
+My second favorite perk was having a quiet place to work. Each developer in the NY office has their own private office, with adjustable height desks and multiple monitors. Some employees have treadmills instead of chairs and others have drums and guitars. 
 
 The third coolest perk was the ability to work remotely. Remote work is ingrained in Stack Overflow’s culture, and over half of the dev team works from locations all over the world, including Brazil, Hawaii, and Germany. One of the devs recently traveled around the world for 3 months while working full-time!
 
